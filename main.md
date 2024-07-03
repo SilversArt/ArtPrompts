@@ -12,7 +12,7 @@ Camera mod1 : create anime art of girl standing
 
 Camera mod2 : create anime art of girl standing in distance
 
-Camera mod3 : create..... in distance, fullbody
+Camera mod3 : create..... in distance, fullbody (alt: standing on object)
 
 Camera mod4 : create..... standing far away
 
@@ -25,22 +25,22 @@ Camera mod7 : create anime art of girl face closeup
 Camera mod8 : create anime art of girl eyes closeup
 
 
-Camera attitude1 : front view
+Camera attitude1 : front view (opt: wide angle view)
 
-Camera attitude2 : side view
+Camera attitude2 : side view (opt: wide angle view)
 
 Camera attitude3 : from behind
 
 Camera attitude4 : top view / bird's eye view (this does not work properly)
 
 
-Camera height1 : from above / high angle view
+Camera height1 : from above / high angle view (drop in quality)
 
 Camera height2 : from below / low angle view
 
-Camera height3 : from high above
+Camera height3 : from high above (significant drop in quality)
 
-Camera height4 : from very high above
+Camera height4 : from very high above (significant drop in quality)
 
 Camera height5 : very low angle view
 

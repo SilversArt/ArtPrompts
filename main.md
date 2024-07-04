@@ -7,6 +7,16 @@ Results that are contrary to the expecations may be observed.
 First is basics : create anime art of girl
 <blockquote><img src="animeGirl2.jpg" height="400"/></blockquote>
 
+# Style guide
+
+ANIME : create anime art of...
+
+MSAA : create manga style anime art of... (improves consistency and accuracy, prefer for indoor art)
+
+MSMIA : create manga style minimalistic art of... (minimalistic anime art, more accurate)
+
+WCOLOR : create watercolor art of... (more detailed and dynamic contrast)
+
 # Camera modifications:
 
 Camera mod1 : create anime art of girl standing
@@ -142,6 +152,10 @@ river : sining river, turbulent river, calm river, clear river, pebbles
 pond : small pond, circular pond
 
 lake : vast lake, low angle view, reflections, lonely boat (good for reflections)
+
+building : tall building, high rise building, modern building, appartment, futuristic concrete building, mall, hotel, library, school building, hospital
+
+house : modern house, stone house, medeival house, resort, penthouse, shop, restaurant, duplex house
 
 # AI Enhancements for Quality improvement
 

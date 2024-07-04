@@ -1,33 +1,46 @@
-# From beginner to not a beginner
+# From beginner to a beginner perhaps !
 
 I am sharing art prompts that are tried in Copilot designer and work in general. 
 Results that are contrary to the expecations may be observed.
 
 First is basics : create anime art of girl
+<blockquote><img src="animeGirl2.jpg" height="400"/></blockquote>
 
 # Camera modifications:
 
 
 Camera mod1 : create anime art of girl standing
+<blockquote><img src="animeGirlStanding.jpg" height="400"/><img src="animeGirlStanding2.jpg" height="400"/></blockquote>
+
 
 Camera mod2 : create anime art of girl standing in distance
 
 Camera mod3 : create..... in distance, fullbody (alt: standing on object)
+<blockquote><img src="girlDistance.jpg" height="400"/><img src="girlDistanceStone.jpg" height="400"/></blockquote>
+
 
 Camera mod4 : create..... standing far away
 
 Camera mod5 : create..... standing very far away
 
 Camera mod6 : create anime art of girl closeup
+<blockquote><img src="girlCloseup.jpg" height="400"/></blockquote>
+
 
 Camera mod7 : create anime art of girl face closeup
+<blockquote><img src="girlFaceCloseup.jpg" height="400"/></blockquote>
 
-Camera mod8 : create anime art of girl eyes closeup
+
+Camera mod8 : create anime art of girl eye closeup
+<blockquote><img src="girlEyeCloseup.jpg" height="400"/></blockquote>
+
 
 
 Camera attitude1 : front view (opt: wide angle view)
 
 Camera attitude2 : side view (opt: wide angle view)
+<blockquote><img src="girlDistanceStone2.jpg" height="400"/></blockquote>
+
 
 Camera attitude3 : from behind
 

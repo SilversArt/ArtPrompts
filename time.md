@@ -36,10 +36,20 @@
 
 *anime art of a girl standing in distance, **sunset, dark night***
 
+<img src="examples/sunset.jpg" width=400/><img src="examples/sunset2.jpg" width=400/>
+
 *anime art of a girl standing in distance, **twilight, stars***
+
+<img src="examples/twilight.jpg" width=300/><img src="examples/twilight2.jpg" width=300/><img src="examples/twilight3.jpg" width=300/>
 
 *anime art of a girl standing in distance, **overcast weather, greenery***
 
+<img src="examples/overcast.jpg" width=400/><img src="examples/overcast2.jpg" width=400/>
+
 *anime art of a girl standing in distance, **night, blue sky, long exposure shot***
 
+<img src="examples/lightNight.jpg" width=300/><img src="examples/lightNight2.jpg" width=300/><img src="examples/lightNight3.jpg" width=300/>
+
 *anime art of a girl standing in distance, **dark night, stars***
+
+<img src="examples/darkNight.jpg" width=400/><img src="examples/darkNight2.jpg" width=400/>

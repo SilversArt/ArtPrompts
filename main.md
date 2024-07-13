@@ -83,33 +83,33 @@ Time mod1 : early sunrise
 
 Time mod2 : before sunrise
 
-Time mod3 : sunrise / dawn
+Time mod3 : sunrise / dawn ( refer [time.md](time.md) )
 
-Time mod4 : sunny
+Time mod4 : sunny ( refer [time.md](time.md) )
 
-Time mod5 : afternoon
+Time mod5 : afternoon ( refer [time.md](time.md) )
 
-Time mod6 : sunset / evening
+Time mod6 : sunset / evening ( refer [time.md](time.md) )
 
-Time mod7 : twilight / after sunset
+Time mod7 : twilight / after sunset ( refer [time.md](time.md) )
 
-Time mod8 : dusk
+Time mod8 : dusk ( refer [time.md](time.md) )
 
-Time mod9 : dark night
+Time mod9 : dark night ( refer [time.md](time.md) )
 
 # Aesthetics to improve Colors and Composition 
 
 Aesthetics1 : sunny, clear blue sky
 
-Aesthetics2 : sunny, dense bright clouds, blue sky
+Aesthetics2 : sunny, dense bright clouds, blue sky ( refer [time.md](time.md) )
 
-Aesthetics3 : setting sun
+Aesthetics3 : setting sun ( refer [time.md](time.md) )
 
-Aesthetics4 : overcast weather, greenery
+Aesthetics4 : overcast weather, greenery ( refer [time.md](time.md) )
 
 Aesthetics5 : overcast weather, dense gray clouds, greenery
 
-Aesthetics6 : sunny, tree, dappled sunlight
+Aesthetics6 : sunny, tree, dappled sunlight ( refer [time.md](time.md) )
 
 Aesthetics7 : sunset, tree, dappled sunlight
 
@@ -119,11 +119,11 @@ Aesthetics9 : sunny, heavy rainfall, rainbow
 
 Aesthetics10: overcast weather, heavy rainfall
 
-Aesthetics11: dark night, stars
+Aesthetics11: dark night, stars ( refer [time.md](time.md) )
 
 Aesthetics12: dark night, bright stars
 
-Aesthetics13: golden hour, bokeh
+Aesthetics13: golden hour, bokeh ( refer [time.md](time.md) )
 
 # AI Building Materials (seperate dedicated repo TBD)
 
@@ -134,6 +134,10 @@ concrete bridge
 stone : stone path, stone walls, stone house, stone ruins
 
 brick : red brick wall (school/old buildings)
+
+wood : wooden house, wooden chair, wooden table, wooden window, wooden crate
+
+metal : metal stairs, metal chair, metal table, metal crate
 
 path : path, trail, road, narrow/wide road, modern road, forest trail
 
@@ -147,15 +151,20 @@ hill : hill station, hills in distance
 
 mountain : high mountains, prominent mountain, wide/huge mountain
 
-river : sining river, turbulent river, calm river, clear river, pebbles
+river : shining river, turbulent river, calm river, clear river, pebbles
 
 pond : small pond, circular pond
 
 lake : vast lake, low angle view, reflections, lonely boat (good for reflections)
 
-building : tall building, high rise building, modern building, appartment, futuristic concrete building, mall, hotel, library, school building, hospital
+building : tall building, high rise building, modern building, apartment, futuristic concrete building, mall, hotel, library, school building, hospital
 
-house : modern house, stone house, medeival house, resort, penthouse, shop, restaurant, duplex house
+house : modern house, stone house, medeival house, resort, penthouse, shop, restaurant, duplex house, shed
+
+drainage : drain, manhole, concrete covers, metal pipe, concrete pipe, large concrete pipe
+
+urban aesthetics : cream-colored wall, brick wall, concrete pavement, apartment, 
+electric pole, lamps, metal stairs, potted plants
 
 # AI Enhancements for Quality improvement
 
